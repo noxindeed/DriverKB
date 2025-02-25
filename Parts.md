@@ -1,0 +1,13 @@
+- MCU(8$): ESP32 - S3 wroom
+- Diodes:
+- RGB:
+- Resistors:
+- Capacitors:
+- Rotary Encoder: 1x EC11 
+- LCD Panel:
+- Stabilizers(20$):
+- Fasteners(15$):
+- Diodes: Through-hole 1N4148 Diodes
+
+- Switches(0.50$/ps):
+- Keycaps(25$):
